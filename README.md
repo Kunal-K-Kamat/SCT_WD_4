@@ -1,6 +1,23 @@
-# To-Do Web App
+# To-Do Web Application
 
-## 💻 Objectives
+A simple and efficient **To-Do List Web App** built using **HTML, CSS, and JavaScript**.  
+It allows users to add, edit, complete, and delete tasks while offering a **dark/light mode** for a modern experience.
+
+---
+
+# Project Structure
+
+```bash
+SCT_WD_4/
+│── index.html    # Main application layout
+│── styles.css    # Styling, responsiveness, and theme support
+│── script.js     # Task management logic & interactivity
+└── README.md     # Documentation
+```
+
+---
+
+## Objectives
 
 - Develop a basic to-do app that enables a user to add and maintain tasks.
 - Allow users to add & organize items in lists.
@@ -8,7 +25,7 @@
 
 ---
 
-## 🛠 Tech Stack Used
+## Tech Stack Used
 
 - HTML5 – Structure of the app
 - CSS3 – Styling & dark mode design
@@ -16,7 +33,7 @@
 
 ---
 
-## ✨ Key Features Implemented
+## Key Features Implemented
 
 - ➕ Add tasks with date & time picker
 - ✏ Edit tasks with instant “Edited Successfully” feedback
@@ -26,4 +43,3 @@
 - 📱 Responsive, clean, and interactive design
 
 ---
-
